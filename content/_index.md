@@ -1,6 +1,6 @@
 ---
 title: "Home"
-draft: true
+draft: false
 single: true
 ---
 
