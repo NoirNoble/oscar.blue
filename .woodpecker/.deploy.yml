@@ -10,3 +10,5 @@ pipeline:
       - apk add hugo rsync
       - hugo
       - rsync -r ./public /oscar.blue
+    volumes:
+      - /var/www/oscar.blue:/oscar.blue
