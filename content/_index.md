@@ -1,12 +1,10 @@
 ---
 title: "Home"
-draft: true
+draft: false
 single: true
 ---
 
 # Welcome to yet another corner of the web.
-
-![Welcome Picture](/images/site/oscar-banner.png)
 
 ## I'm Oscar,
 
