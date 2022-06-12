@@ -9,6 +9,6 @@ pipeline:
     commands:
       - apk add hugo rsync
       - hugo
-      - rsync -r ./public/ /oscar.blue/
+      - rsync -rltvz --delete --omit-dir-times ./public/ /oscar.blue/
     volumes:
       - /var/www/oscar.blue:/oscar.blue
