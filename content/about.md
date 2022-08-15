@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "About"
 draft: false
 single: true
 showAuthor: false
@@ -7,7 +7,3 @@ showDate: false
 showPagination: false
 showReadingTime: false
 ---
-
-Contact oscar [at] oscarpo [dot] co  
-matrix:  
-wire
