@@ -8,6 +8,4 @@ showPagination: false
 showReadingTime: false
 ---
 
-Contact oscar [at] oscarpo [dot] co  
-matrix:  
-wire
+Mastodon: [at] oscar [at] mastodon.online 

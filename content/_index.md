@@ -4,8 +4,8 @@ draft: false
 single: true
 ---
 
-# Welcome to yet another corner of the web.
+# Welcome to Yet Another Corner of the Web.
 
-## I'm Oscar,
+## I'm Oscar 👋
 
-I run this site which mostly functions as a poor man's documentation of the things I've done and how to do them yourself. You may also find some thoughts and opinions of mine if that's something you're interested in.
+This website mostly functions as a landing page for my other spaces on web with some opinion pieces and tutorials spinkled here and there. 

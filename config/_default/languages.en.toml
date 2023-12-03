@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Oscar Pocock"
+title = "Oscar Blue"
 logo = "images/white-sig.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -13,7 +13,7 @@ logo = "images/white-sig.png"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Oscar Pocock"
+  name = "Oscar Blue"
   image = "images/author.png"
   # headline = "I'm only human"
   bio = "Open Source Enthusiast"

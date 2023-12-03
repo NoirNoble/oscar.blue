@@ -1,7 +1,7 @@
 baseURL = "https://oscar.blue"
-title = "Oscar Pocock"
+title = "Oscar Blue"
 theme = "hugo-notepadium"
-copyright = "© 2022 Oscar Pocock"
+copyright = "© 2022 Oscar Blue"
 
 languageCode = "en-gb"
 
