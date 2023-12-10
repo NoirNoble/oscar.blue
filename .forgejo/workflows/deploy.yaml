@@ -1,0 +1,30 @@
+on: [push]
+jobs:
+  build:
+    runs-on: docker
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: congo
+
+      - name: Setup Hugo
+        uses: https://github.com/peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.90.1"
+          extended: true
+
+      - name: Clone theme
+        run: git submodule update --init --recursive
+
+      - name: Hugo build
+        run: hugo -v
+
+      - name: Rsync Deployments Action
+        uses: https://github.com/Burnett01/rsync-deployments@5.2
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: ${{ secrets.remote_path }}
+          remote_host: ${{ secrets.remote_host }} 
+          remote_user: ${{ secrets.remote_user }}
+          remote_key: ${{ secrets.remote_key }}
