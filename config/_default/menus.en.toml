@@ -30,10 +30,10 @@
   pageRef = "contact"
   weight = 30
 
-[[main]]
-  name = "Git"
-  url = "https://oscar.blue/git"
-  weight = 40
+# [[main]]
+#   name = "Git"
+#   url = "https://oscar.blue/git"
+#   weight = 40
 
 # [[main]]
 #   name = "Categories"
