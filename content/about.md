@@ -8,7 +8,6 @@ showPagination: false
 showReadingTime: false
 ---
 
-# Intro
 Hey 👋,
 
 I'm Oscar
