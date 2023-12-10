@@ -7,7 +7,7 @@ rtl = false
 
 title = "Oscar Blue"
 # logo = "images/white-sig.png"
-# description = "My awesome website"
+description = "Oscar's personal space"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -19,7 +19,7 @@ dateFormat = "2 January 2006"
   bio = "Open Source Enthusiast"
   links = [
     { email = "mailto:oscar@oscarpo.co" },
-    { link = "https://oscar.blue/" },
+  #   { link = "https://oscar.blue/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
