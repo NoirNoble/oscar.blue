@@ -7,21 +7,25 @@
 
 colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+enableImageLazyLoading = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, custom
+  layout = "hybrid" # valid options: basic, hamburger, custom
+  logo = "images/white-sig.png"
+  logoDark = "images/black-sig.png"
+  showTitle = false
 
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
