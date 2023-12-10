@@ -4,8 +4,6 @@ jobs:
     runs-on: docker
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: congo
 
       - name: Setup Hugo
         uses: https://github.com/peaceiris/actions-hugo@v2
