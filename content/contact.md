@@ -7,7 +7,4 @@ showDate: false
 showPagination: false
 showReadingTime: false
 ---
-
-If you would like to get in touch you can find me in the following places:
-
-- **Mastodon**: [at] oscar [at] mastodon.online  
+![weatherboy](/images/wouldnt-you-like-to-know-weather-boy.gif)
